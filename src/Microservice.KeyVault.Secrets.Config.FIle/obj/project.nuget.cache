@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KonVw/5t6ko=",
+  "success": true,
+  "projectFilePath": "C:\\d\\projects\\ons-dotnet-azure\\AzureKeyVaultSecretsToConfigurations\\src\\Microservice.KeyVault.Secrets.Config.FIle\\Microservice.KeyVault.Secrets.Config.FIle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\surender2468\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\surender2468\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\surender2468\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\surender2468\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\surender2468\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\surender2468\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
